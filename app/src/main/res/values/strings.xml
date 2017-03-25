@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">技术日报</string>
+    <string name="version">版本</string>
+    <string name="clearhc">清空缓存</string>
+    <string name="about">关于作者</string>
+    <string name="dashang">打赏作者</string>
+    <string name="dashangtitle">帮助开发者娶老婆</string>
+    <string name="weixing">微信捐款(海峰)</string>
+    <string name="zhifubao">支付宝捐款(海峰)</string>
+    <string name="zhiyuan">帮助作者</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.infomation.haiffeng.view.UserItemCommonT
+        android:id="@+id/version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.infomation.haiffeng.view.UserItemCommonT>
+
+    <com.infomation.haiffeng.view.UserItemCommonT
+        android:id="@+id/hc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.infomation.haiffeng.view.UserItemCommonT>
+
+    <com.infomation.haiffeng.view.UserItemCommon
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.infomation.haiffeng.view.UserItemCommon>
+
+    <com.infomation.haiffeng.view.UserItemCommon
+        android:id="@+id/help"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.infomation.haiffeng.view.UserItemCommon>
+</LinearLayout>
