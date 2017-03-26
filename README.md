@@ -4,3 +4,5 @@
 2：其他第三方：采用picasso作为图片加载，easyrecyclerview、butterknife、bottom-navigation-bar</br>
 3：采用的第三方api:http://geekvi.net/和gank.io，http://gank.io/</br>
 4：根据功能模块分包，采用material design风格设计。</br>
+![](https://github.com/Ahuanghaifeng/itday/raw/master/one.gif)
+![](https://github.com/Ahuanghaifeng/itday/raw/master/two.gif)
