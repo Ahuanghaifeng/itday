@@ -7,3 +7,4 @@
 4：根据功能模块分包，采用material design风格设计。</br>
 ![](https://github.com/Ahuanghaifeng/itday/raw/master/one.gif)
 ![](https://github.com/Ahuanghaifeng/itday/raw/master/two.gif)
+</br>博客地址http://blog.csdn.net/u013692888/article/details/67632635
